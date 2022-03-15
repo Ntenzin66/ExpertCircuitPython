@@ -8,7 +8,7 @@
 ```python
 import time
 import board
-from rgb import LED   # import the LED class from the rgb module
+from rgb import LED   
 
 blueLEDPin1 = board.D8
 redLEDPin1 = board.D9
@@ -37,5 +37,6 @@ while True:
     time.sleep(1)
     myGreenLED2.fade()
     time.sleep(1)
-    ```
+   
+   
 
