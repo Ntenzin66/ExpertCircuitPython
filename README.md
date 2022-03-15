@@ -3,7 +3,7 @@
 
 ## Classes, Objects, and Modules
 
-## Description and Code
+## Code
 
 ```python
 import time
@@ -37,6 +37,13 @@ while True:
     time.sleep(1)
     myGreenLED2.fade()
     time.sleep(1)
+
+## Description
+
+
+ 
+ 
+ 
    
    
 
