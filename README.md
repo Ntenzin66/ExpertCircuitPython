@@ -36,9 +36,9 @@ while True:
     myGreenLED1.fade()
     time.sleep(1)
     myGreenLED2.fade()
-    time.sleep(1)
+    time.sleep(1)```
 
-## Description
+
 
 
  
